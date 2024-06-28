@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "alpine";
+$username = "user";
+$password = "password";
 $dbname = "lyrid";
 
 try {
